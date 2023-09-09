@@ -36,7 +36,7 @@
   <h3 align="center">Habit Tracker App</h3>
 
   <p align="center">
-    In this repository, you can find habit tracker app.
+    In this repository, you can find habit tracker app in the master branch
     <br />
     <a href="https://github.com/abdullahnb1/habit_tracker_app"><strong>Explore the docs »</strong></a>
     <br />
